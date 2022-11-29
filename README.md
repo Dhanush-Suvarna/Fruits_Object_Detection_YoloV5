@@ -1,8 +1,8 @@
-# Object-Detection-Using-YoloV5
+# Fruits-Object-Detection-Using-YoloV5
 
 ## Data Overview
 
-Acutully For this model I've used same data wich i have used in YOLOV4.It's Fruits Images dataset which has Three class like-Apple,Banana,Orange and Each class has around 300 Images.I have done this project using YoloV4 model It's Detecting all the three classes correctly. Data Source:-[Click Here to Download the dataset](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection).
+Fruits Images dataset which has Three class like-Apple,Banana,Orange and Each class has around 300 Images.I have done this project using YoloV5 model It's Detecting all the three classes correctly. Data Source:-[Click Here to Download the dataset](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection).
 
 ## Required Library and Tools
 
